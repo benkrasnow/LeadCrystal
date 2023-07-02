@@ -1,13 +1,14 @@
 function Pb_sample
 clear all
 close all
+pkg load optim
 
 % Use this single wavelength to plot signal variation as spectra are acquired.
 wavelength_variance_display = 515;
 % Samples will be collected in the order shown here.  "blank" is a special term for computing absorbance.
 % All "blank" acquisitions will be averaged for calculating absorbance of other samples, and
 % variance across all "blank" acqusitions will be plotted to show spectrometer drift over the series of acqusitions.
-sample_names = {"blank", "Leaf 3h after 6day dilute 1/3", "blank"};
+sample_names = {"blank", "Tumbler final undiluted", "Wine glass final undiluted", "bowl final undiluted", "mug final undiluted", "vase final diluted 1:2", "250", "0", "blank"};
 
 
 %%%%%%%%%%%%%%%%% Internal state variables

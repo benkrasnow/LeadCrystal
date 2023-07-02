@@ -8,9 +8,9 @@ Dalton goblet 1hr dilute 1/2         21.7 ug/l
 Dalton goblet 3hr dilute 1/2         49.5 ug/l
 Dalton goblet 6day dilute 1/2         112 ug/l
 
-Sleigh 1hr straight         6.78 ug/l
-Sleigh 3hr straight         16.5 ug/l
-Sleigh 6day straight         6.79 ug/l
+Sleigh 1hr undiluted         6.78 ug/l
+Sleigh 3hr undiluted         16.5 ug/l
+Sleigh 6day undiluted         6.79 ug/l
 
 vase 3hr dilute 1/2         595 ug/l
 vase 6day dilute 1/10         422 ug/l
@@ -29,13 +29,22 @@ Leaf 6day dilute 1/3         427 ug/l
 
 zero         37.1 ug/l
 Tumbler 3hr after 6day dilute 1/2         62.3 ug/l
-Goblet 3he after 6day straight         52.3 ug/l
-Tumbler 3hr after 6day straight         76.7 ug/l
+Goblet 3he after 6day undiluted         52.3 ug/l
+Tumbler 3hr after 6day undiluted         76.7 ug/l
 
 zero         29.8 ug/l
-Sleigh 3h after 6day straight         77.2 ug/l
+Sleigh 3h after 6day undiluted         77.2 ug/l
 Vase 3hr after 6dat dilute 1/3         172 ug/l
-Bowl 3hr after 6day straight         205 ug/l
-Mug 3hr after 6day straight         120 ug/l
+Bowl 3hr after 6day undiluted         205 ug/l
+Mug 3hr after 6day undiluted         120 ug/l
 
 Leaf 3h after 6day dilute 1/3         61.2 ug/l
+
+
+Tumbler final undiluted         87.3 ug/l
+Wine glass final undiluted         49.4 ug/l
+bowl final undiluted         48.2 ug/l
+mug final undiluted         49.2 ug/l
+vase final diluted 1/2         99.6 ug/l
+250         307 ug/l
+zero         38.5 ug/l
