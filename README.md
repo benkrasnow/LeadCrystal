@@ -25,10 +25,14 @@ Us4876068a
 https://www.lenntech.com/periodic/water/lead/lead-and-water.htm
 
 
-Lead cystal study.xslx - summary spreadsheet of results 
+Lead cystal study.xslx - summary spreadsheet of results
+
 Pb_calibration.m - Octave script to collect data, and generate calibration curve based on standards of lead
+
 Pb_sample.m - Octave script to collect data, and use calibration curve to determine concentrations
+
 calfit - Octave data file containing only the required calibration coeficients to determine lead concentration in unknown samples
+
 calsession - the whole Octave workspace used during calibration determination
 samplesession - the whole Octave workspace used when calculating unknown lead concentrations
 caldata - Octave variables used during development -- not needed for current operation
