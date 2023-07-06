@@ -12,6 +12,19 @@ This project makes use of dithizone, a chemical that produces colorful products 
 https://www.aseq-instruments.com/LR1.html
 Exposure was 15ms, illumination provided by an 18 watt tungsten lamp
 
+The main DCM extraction method
+https://ca.hach.com/asset-get.download.jsa?id=7639983726
+https://archive.org/details/gov.law.apha.method.3500-pb.1992/page/n5/mode/2up
+https://pubs.usgs.gov/bul/1084f/report.pdf
+
+
+
+https://sci-hub.se/https://doi.org/10.2116/analsci.23.193
+Us4876068a
+
+https://www.lenntech.com/periodic/water/lead/lead-and-water.htm
+
+
 Lead cystal study.xslx - summary spreadsheet of results 
 Pb_calibration.m - Octave script to collect data, and generate calibration curve based on standards of lead
 Pb_sample.m - Octave script to collect data, and use calibration curve to determine concentrations
